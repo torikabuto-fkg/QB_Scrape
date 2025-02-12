@@ -401,8 +401,8 @@ async function main() {
   const page = await browser.newPage();
 
   const loginUrl = 'https://login.medilink-study.com/login'; // ログインURL
-  const email = 'torikabuto.flowernight@gmail.com';           // ログイン用メール
-  const password = '0222koyomin';                               // ログイン用パスワード
+  const email = '';           // ログイン用メール
+  const password = '';                               // ログイン用パスワード
   const fileName = "分子細胞(1)";                                // 保存するPDFのファイル名
   const startUrl = 'https://cbt.medilink-study.com/Answer/2012106230'; // 最初の問題ページ
   const numberOfPages = 19;                                     // 取得する問題数 
