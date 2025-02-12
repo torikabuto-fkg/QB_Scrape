@@ -1,2 +1,4 @@
 # QB_Scrape
 QBをpuppeteerを使ってスクレイピングしてくる関数
+
+axiosによる画像ダウンロードとBase64変換予定
